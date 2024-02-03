@@ -1,1 +1,5 @@
-# new-project1
+#include <stido.h>
+
+int main(void){
+printf(hello, world)
+}
